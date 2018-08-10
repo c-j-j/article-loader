@@ -1,0 +1,4 @@
+{
+  "defaultCommandTimeout": 60000,
+  "chromeWebSecurity": false
+}
